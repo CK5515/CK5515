@@ -1,5 +1,5 @@
 # About Me:
-I'm currently learning Neural Networks Design and Deep learning<br>Aspiring Data Scientist<br>I enjoy a challenge with a unique/abstract solution<br>Always working on my mathematical fluency<br>Feel free to ask anything!<br>
+I'm currently learning and working with Neural Networks Design and Deep learning<br>I enjoy a challenge with a unique/abstract solution<br>Feel free to reach out!<br>
 
 
 ## Socials:
