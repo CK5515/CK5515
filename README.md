@@ -1,5 +1,5 @@
 # About Me:
-I'm currently learning and working with Neural Networks Design and Deep Learning @ SWAEV.com<br>I enjoy a challenge with a unique/abstract solution<br>Feel free to reach out!<br>
+I'm currently learning and working with Neural Networks Design and Deep Learning @ SWAEV.com<br>Feel free to reach out!<br>
 
 
 ## Socials:
