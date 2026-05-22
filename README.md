@@ -14,6 +14,6 @@ I'm currently learning and working with Neural Networks Design and Deep Learning
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=CK5515&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=CK5515&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
